@@ -1,9 +1,11 @@
 /// @description ini player
 depth = -1000;
 speed_ = [0,0];
-max_speed_ = 4;
-acceleration_ = 1;
+max_speed_ = 3;
+acceleration_ = 0.5;
 friction_ = .3;
+
+instance_create_layer(x,y,"Instances", o_camera);
 
 //keybinding
 keyboard_set_map(ord("W"), vk_up);

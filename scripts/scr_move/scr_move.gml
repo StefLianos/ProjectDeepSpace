@@ -1,5 +1,4 @@
-///@param hspeed
-///@param vspeed
+///@param speed_ array
 var speed_ = argument0;
 
 //collision detection
