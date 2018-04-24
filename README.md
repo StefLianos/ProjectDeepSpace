@@ -12,6 +12,10 @@ tion engine.
 
 ## How it looks
 
+![alt text](https://github.com/StefLianos/ProjectDeepSpace/blob/master/README%20media/DeepSpaceGif1.gif)
+
+![alt text](https://github.com/StefLianos/ProjectDeepSpace/blob/master/README%20media/DeepSpaceGif2.gif)
+
 ## Prerequisites
 
 This project is for windows only !
