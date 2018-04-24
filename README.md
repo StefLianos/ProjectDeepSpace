@@ -6,6 +6,10 @@ tion engine.
 
 ## How it plays
 
+* Use WASD to move
+* Point and click to shoot
+* Space and R reset the game and load a new level
+
 ## How it looks
 
 ## Prerequisites
