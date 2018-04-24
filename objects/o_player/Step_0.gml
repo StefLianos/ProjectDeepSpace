@@ -54,27 +54,4 @@ scr_move(speed_);
 var dir = point_direction(o_player.x,o_player.y-sprite_height/2,mouse_x,mouse_y);
 //set sprite speed and index depending on speed
 
-//look down
-if (dir > 45 and dir < 135)
-{
-	//idle
-	if (h_input == 0 and v_input == 0)
-	{
-		sprite_index = s_player_up_idle;
-	}
-	else
-	{
-		sprite_index = s_player_up;
-	}
-}
-else
-{
-	if (h_input == 0 and v_input == 0)
-	{
-		sprite_index = s_player_idle;
-	}
-	else
-	{
-		sprite_index = s_player_walk;
-	}
-}
+sprite_index = scr_set_player_sprite_index(h_input,v_input,dir);
