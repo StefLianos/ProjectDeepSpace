@@ -33,3 +33,4 @@ Simply extract the .zip into a folder of your choise and run the .exe !
 ## Based on
 
 Random level generator by [HeartBeast](https://www.youtube.com/user/uheartbeast)
+Spawner mechanics from [Risk of Rain](http://riskofrain.wikia.com/wiki/Enemies_%26_Bosses)
