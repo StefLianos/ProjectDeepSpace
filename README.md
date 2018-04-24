@@ -1,1 +1,27 @@
 # ProjectDeepSpace
+
+An experimental top down perspective game in Gamemaker.
+Currently serves as a testing environment for randomly generated levels and a light/shadow projec-
+tion engine.
+
+## How it plays
+
+## How it looks
+
+## Prerequisites
+
+This project is for windows only !
+
+## Running
+
+Simply extract the .zip into a folder of your choise and run the .exe !
+
+## Built With
+
+* [GameMaker Studio 2](https://www.yoyogames.com/gamemaker) - game source code
+* [Pyxel Edit](http://pyxeledit.com/) - sprites and animation
+* [Sunvox](http://www.warmplace.ru/soft/sunvox/#about) - melody
+
+## Based on
+
+Random level generator by [HeartBeast](https://www.youtube.com/user/uheartbeast)
